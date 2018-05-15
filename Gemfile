@@ -10,7 +10,7 @@ group :development, :test do
 end
 
 group :production do
-  gem 'pg', '~> 1.0.0'
+  gem 'pg', '~> 0.15'
 end
 
 # Use SCSS for stylesheets
